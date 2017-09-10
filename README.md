@@ -3,7 +3,7 @@
 We've lost so many genius developers, who committed suicide, 
 such as [Aaron Hillel Swartz (November 8, 1986 – January 11, 2013)](https://en.wikipedia.org/wiki/Aaron_Swartz).
 
-As a developer, the community needs you, the world needs you, pleaes keep yourself alive.
+As a developer, the community needs you, the world needs you, please keep yourself alive.
 
 ```
 SAY NO TO SUICIDE PUBLIC LICENSE 
