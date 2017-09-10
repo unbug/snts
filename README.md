@@ -21,7 +21,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, AND DISTRIBUTION
   whenever, whatever, no limitation.
   
   2. When you are in despair, just talk to someone you trust, 
-  someone you love. Getting help from your familly, your friends, 
+  someone you love. Getting help from your family, your friends, 
   the police, the community, the public.
   
   3. Keep yourself alive and say no to suicide.
