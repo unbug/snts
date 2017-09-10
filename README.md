@@ -28,5 +28,5 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, AND DISTRIBUTION
 ```
 
 ## Translations
- - [Simplified Chinese](https://github.com/Artwalk/snts) by [@Artwalk](https://github.com/Artwalk)
+ - [简体中文](https://github.com/Artwalk/snts) by [@Artwalk](https://github.com/Artwalk)
         
