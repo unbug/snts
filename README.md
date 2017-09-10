@@ -26,4 +26,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, AND DISTRIBUTION
   
   3. Keep yourself alive and say no to suicide.
 ```
+
+## Translations
+ - [Simplified Chinese](https://github.com/Artwalk/snts) by [@Artwalk](https://github.com/Artwalk)
         
