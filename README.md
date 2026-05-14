@@ -8,7 +8,7 @@ As a developer, the community needs you, the world needs you, please keep yourse
 ```
 SAY NO TO SUICIDE PUBLIC LICENSE 
 
-Version 1.0, September 2019
+Version 2.0, May 2026
 
 Copyright (C) [year] [fullname]
 
